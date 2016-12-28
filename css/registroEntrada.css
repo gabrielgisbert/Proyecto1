@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04-abr-2016, 14:38:57
+    Author     : Administrador
+*/
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(Roboto-Regular.ttf);
+}
+
+body{
+     font-family: 'Roboto';
+}
+
+.img_logo{
+    max-height: 100px;
+    margin-top: 50px;
+}
+
+.align_center{
+    text-align: center;
+}
+
+.margin_bottom_30{
+    margin-bottom: 30px;
+}
+
+
+.align_left{
+    text-align: left !Important;
+}
+
+.margin_top_15{
+    margin-top: 15px !Important;
+}
+
+.margin_top_60{
+    margin-top: 60px !Important;
+}
+
+.button_shadow{
+    -webkit-box-shadow: 0px 10px 50px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 10px 50px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 10px 50px 0px rgba(0,0,0,0.75);
+}
+
+
+h1{
+    margin: 10px;
+    
+}
