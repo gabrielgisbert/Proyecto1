@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
- $variabel = 2;
+ $variabel = 3;
